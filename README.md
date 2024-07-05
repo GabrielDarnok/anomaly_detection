@@ -12,7 +12,7 @@
 
 - | pip install requests pandas scikit-learn matplotlib |
 
-3.Edite o arquivo config.json com as informações necessárias e a url do webhook.
+3.Crie/Edite o arquivo config.json com as informações necessárias e a url do webhook.
 
 4.Execute o script principal main.py:
 
