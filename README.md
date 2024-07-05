@@ -18,10 +18,6 @@
 
 - | python main.py |
 
-obs: caso estiver pelo terminal executar da seguinte maneira:
-
-- | python3 src/main.py |
-
 # Estrutura do Projeto
 - main.py: Script principal que coordena a execução dos outros scripts.
 - utils/bytes.py: Script para alterar para GB.
