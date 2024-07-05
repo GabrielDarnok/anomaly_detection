@@ -21,7 +21,7 @@
 # Estrutura do Projeto
 - main.py: Script principal que coordena a execução dos outros scripts.
 - utils/bytes.py: Script para converter para GB.
-- utils/config.py: Arquivo de configuração com informações necessarias. Também é armazenado no json a URL para o WebHook.
+- utils/config.py: Arquivo de configuração com informações necessarias. Também é armazenado a URL do WebHook.
 - utils/env_notf.py: Script feito para envio de notifiicações para o Slack.
 
 # Autores
