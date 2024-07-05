@@ -24,7 +24,7 @@
 - utils/config.py: Arquivo de configuração com informações necessarias. Também é armazenado a URL do WebHook.
 - utils/env_notf.py: Script feito para envio de notifiicações para o Slack.
 
-# Autores
+# Autor
 Gabriel Henrique
 
 # Licença
